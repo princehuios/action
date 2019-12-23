@@ -1,6 +1,6 @@
 # Block and Transaction Broadcasting With ZeroMQ
 
-[ZeroMQ](http://zeromq.org/) is a lightweight wrapper around TCP
+[ZeroMQ](https://zeromq.org/) is a lightweight wrapper around TCP
 connections, inter-process communication, and shared-memory,
 providing various message-oriented semantics such as publish/subscribe,
 request/reply, and push/pull.
@@ -79,7 +79,7 @@ bytes).
 These options can also be provided in zcash.conf.
 
 ZeroMQ endpoint specifiers for TCP (and others) are documented in the
-[ZeroMQ API](http://api.zeromq.org/4-0:_start).
+[ZeroMQ API](https://api.zeromq.org/4-0:_start).
 
 Client side, then, the ZeroMQ subscriber socket must have the
 ZMQ_SUBSCRIBE option set to one or either of these prefixes (for

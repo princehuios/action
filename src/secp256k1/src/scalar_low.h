@@ -3,7 +3,7 @@
 /**********************************************************************
  * Copyright (c) 2015 Andrew Poelstra                                 *
  * Distributed under the MIT software license, see the accompanying   *
- * file COPYING or http://www.opensource.org/licenses/mit-license.php.*
+ * file COPYING or https://www.opensource.org/licenses/mit-license.php.*
  **********************************************************************/
 
 #ifndef SECP256K1_SCALAR_REPR_H
@@ -20,7 +20,7 @@ typedef uint32_t secp256k1_scalar;
 /**********************************************************************
  * Copyright (c) 2015 Andrew Poelstra                                 *
  * Distributed under the MIT software license, see the accompanying   *
- * file COPYING or http://www.opensource.org/licenses/mit-license.php.*
+ * file COPYING or https://www.opensource.org/licenses/mit-license.php.*
  **********************************************************************/
 
 #ifndef SECP256K1_SCALAR_REPR_H

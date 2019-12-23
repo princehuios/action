@@ -1,7 +1,7 @@
 // Copyright (c) 2009-2014 The Bitcoin Core developers
 // Copyright (c) 2017 The Zcash developers
 // Distributed under the MIT software license, see the accompanying
-// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+// file COPYING or https://www.opensource.org/licenses/mit-license.php.
 
 /******************************************************************************
  * Copyright © 2014-2019 The SuperNET Developers.                             *
@@ -35,7 +35,7 @@ static secp256k1_context* secp256k1_context_sign = NULL;
 
 /**
  * This parses a format loosely based on a DER encoding of the ECPrivateKey type from
- * section C.4 of SEC 1 <http://www.secg.org/sec1-v2.pdf>, with the following caveats:
+ * section C.4 of SEC 1 <https://www.secg.org/sec1-v2.pdf>, with the following caveats:
  *
  * * The octet-length of the SEQUENCE must be encoded as 1 or 2 octets. It is not
  *   required to be encoded as one octet if it is less than 256, as DER would require.
@@ -97,7 +97,7 @@ static int ec_privkey_import_der(const secp256k1_context* ctx, unsigned char *ou
 
 /**
  * This serializes to a DER encoding of the ECPrivateKey type from section C.4 of SEC 1
- * <http://www.secg.org/sec1-v2.pdf>. The optional parameters and publicKey fields are
+ * <https://www.secg.org/sec1-v2.pdf>. The optional parameters and publicKey fields are
  * included.
  *
  * privkey must point to an output buffer of length at least CKey::PRIVATE_KEY_SIZE bytes.

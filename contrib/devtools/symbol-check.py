@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Copyright (c) 2014 Wladimir J. van der Laan
 # Distributed under the MIT software license, see the accompanying
-# file COPYING or http://www.opensource.org/licenses/mit-license.php.
+# file COPYING or https://www.opensource.org/licenses/mit-license.php.
 '''
 A script to check that the (Linux) executables produced by gitian only contain
 allowed gcc, glibc and libstdc++ version symbols.  This makes sure they are
@@ -25,13 +25,13 @@ import os
 #
 # Ubuntu 10.04.4 (Lucid Lynx) has:
 #
-# - g++ version 4.4.3 (http://packages.ubuntu.com/search?keywords=g%2B%2B&searchon=names&suite=lucid&section=all)
-# - libc version 2.11.1 (http://packages.ubuntu.com/search?keywords=libc6&searchon=names&suite=lucid&section=all)
-# - libstdc++ version 4.4.3 (http://packages.ubuntu.com/search?suite=lucid&section=all&arch=any&keywords=libstdc%2B%2B&searchon=names)
+# - g++ version 4.4.3 (https://packages.ubuntu.com/search?keywords=g%2B%2B&searchon=names&suite=lucid&section=all)
+# - libc version 2.11.1 (https://packages.ubuntu.com/search?keywords=libc6&searchon=names&suite=lucid&section=all)
+# - libstdc++ version 4.4.3 (https://packages.ubuntu.com/search?suite=lucid&section=all&arch=any&keywords=libstdc%2B%2B&searchon=names)
 #
 # Taking the minimum of these as our target.
 #
-# According to GNU ABI document (http://gcc.gnu.org/onlinedocs/libstdc++/manual/abi.html) this corresponds to:
+# According to GNU ABI document (https://gcc.gnu.org/onlinedocs/libstdc++/manual/abi.html) this corresponds to:
 #   GCC 4.4.0: GCC_4.4.0
 #   GCC 4.4.2: GLIBCXX_3.4.13, CXXABI_1.3.3
 #   (glibc)    GLIBC_2_11

@@ -29,7 +29,7 @@
  "Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture",
  Eli Ben-Sasson, Alessandro Chiesa, Eran Tromer, Madars Virza,
  USENIX Security 2014,
- <http://eprint.iacr.org/2013/879>
+ <https://eprint.iacr.org/2013/879>
 
  \[PGHR13]:
  "Pinocchio: Nearly practical verifiable computation",

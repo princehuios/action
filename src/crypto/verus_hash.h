@@ -1,6 +1,6 @@
 // (C) 2018 Michael Toutonghi
 // Distributed under the MIT software license, see the accompanying
-// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+// file COPYING or https://www.opensource.org/licenses/mit-license.php.
 
 /*
 This provides the PoW hash function for Verus, enabling CPU mining.

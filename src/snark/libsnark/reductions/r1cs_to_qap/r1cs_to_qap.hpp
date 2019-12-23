@@ -15,13 +15,13 @@
  "SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge",
  Eli Ben-Sasson, Alessandro Chiesa, Daniel Genkin, Eran Tromer, Madars Virza,
  CRYPTO 2013,
- <http://eprint.iacr.org/2013/507>
+ <https://eprint.iacr.org/2013/507>
 
  \[GGPR13]:
  "Quadratic span programs and succinct NIZKs without PCPs",
  Rosario Gennaro, Craig Gentry, Bryan Parno, Mariana Raykova,
  EUROCRYPT 2013,
- <http://eprint.iacr.org/2012/215>
+ <https://eprint.iacr.org/2012/215>
 
  *****************************************************************************
  * @author     This file is part of libsnark, developed by SCIPR Lab

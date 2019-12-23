@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # Copyright (c) 2019 Bartlomiej Lisiecki
 # Distributed under the MIT software license, see the accompanying
-# file COPYING or http://www.opensource.org/licenses/mit-license.php.
+# file COPYING or https://www.opensource.org/licenses/mit-license.php.
 
 from decimal import Decimal
 from test_framework.test_framework import BitcoinTestFramework

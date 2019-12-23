@@ -1,7 +1,7 @@
 Ed25519
 =======
 
-This is a portable implementation of [Ed25519](http://ed25519.cr.yp.to/) based
+This is a portable implementation of [Ed25519](https://ed25519.cr.yp.to/) based
 on the SUPERCOP "ref10" implementation. Additionally there is key exchanging
 and scalar addition included to further aid building a PKI using Ed25519. All
 code is licensed under the permissive zlib license.

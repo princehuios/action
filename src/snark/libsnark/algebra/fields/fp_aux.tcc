@@ -154,7 +154,7 @@ namespace libsnark {
 /*
   Comba multiplication and squaring routines are based on the
   public-domain tomsfastmath library by Tom St Denis
-  <http://www.libtom.org/>
+  <https://www.libtom.org/>
   <https://github.com/libtom/tomsfastmath/blob/master/src/sqr/fp_sqr_comba.c
   <https://github.com/libtom/tomsfastmath/blob/master/src/mul/fp_mul_comba.c>
 
@@ -294,7 +294,7 @@ namespace libsnark {
 /*
   The Montgomery reduction here is based on Algorithm 14.32 in
   Handbook of Applied Cryptography
-  <http://cacr.uwaterloo.ca/hac/about/chap14.pdf>.
+  <https://cacr.uwaterloo.ca/hac/about/chap14.pdf>.
  */
 #define REDUCE_6_LIMB_PRODUCT(k_, tmp1_, tmp2_, tmp3_, inv_, res_, mod_) \
     __asm__ volatile                               \

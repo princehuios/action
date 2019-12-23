@@ -10,9 +10,9 @@ Authors: Sanjay Ghemawat (sanjay@google.com) and Jeff Dean (jeff@google.com)
   * Multiple changes can be made in one atomic batch.
   * Users can create a transient snapshot to get a consistent view of data.
   * Forward and backward iteration is supported over the data.
-  * Data is automatically compressed using the [Snappy compression library](http://code.google.com/p/snappy).
+  * Data is automatically compressed using the [Snappy compression library](https://code.google.com/p/snappy).
   * External activity (file system operations etc.) is relayed through a virtual interface so users can customize the operating system interactions.
-  * [Detailed documentation](http://htmlpreview.github.io/?https://github.com/google/leveldb/blob/master/doc/index.html) about how to use the library is included with the source code.
+  * [Detailed documentation](https://htmlpreview.github.io/?https://github.com/google/leveldb/blob/master/doc/index.html) about how to use the library is included with the source code.
 
 
 # Limitations

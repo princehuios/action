@@ -558,31 +558,31 @@ References
 
 \[BCCT12] [
   _From extractable collision resistance to succinct non-Interactive arguments of knowledge, and back again_
-](http://eprint.iacr.org/2011/443),
+](https://eprint.iacr.org/2011/443),
   Nir Bitansky, Ran Canetti, Alessandro Chiesa, Eran Tromer,
   Innovations in Computer Science (ITCS) 2012
 
 \[BCCT13] [
   _Recursive composition and bootstrapping for SNARKs and proof-carrying data_
-](http://eprint.iacr.org/2012/095)
+](https://eprint.iacr.org/2012/095)
   Nir Bitansky, Ran Canetti, Alessandro Chiesa, Eran Tromer,
   Symposium on Theory of Computing (STOC) 13
 
 \[BCGTV13] [
   _SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge_
-](http://eprint.iacr.org/2013/507),
+](https://eprint.iacr.org/2013/507),
   Eli Ben-Sasson, Alessandro Chiesa, Daniel Genkin, Eran Tromer, Madars Virza,
   CRYPTO 2013
 
 \[BCIOP13] [
   _Succinct Non-Interactive Arguments via Linear Interactive Proofs_
-](http://eprint.iacr.org/2012/718),
+](https://eprint.iacr.org/2012/718),
   Nir Bitansky, Alessandro Chiesa, Yuval Ishai, Rafail Ostrovsky, Omer Paneth,
   Theory of Cryptography Conference 2013
 
 \[BCTV14a] [
   _Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture_
-](http://eprint.iacr.org/2013/879),
+](https://eprint.iacr.org/2013/879),
   Eli Ben-Sasson, Alessandro Chiesa, Eran Tromer, Madars Virza,
   USENIX Security 2014
 
@@ -606,7 +606,7 @@ References
 
 \[GGPR13] [
   _Quadratic span programs and succinct NIZKs without PCPs_
-](http://eprint.iacr.org/2012/215),
+](https://eprint.iacr.org/2012/215),
   Rosario Gennaro, Craig Gentry, Bryan Parno, Mariana Raykova,
   EUROCRYPT 2013
 
@@ -617,7 +617,7 @@ References
 
 \[PGHR13] [
   _Pinocchio: Nearly Practical Verifiable Computation_
-](http://eprint.iacr.org/2013/279),
+](https://eprint.iacr.org/2013/279),
   Bryan Parno, Craig Gentry, Jon Howell, Mariana Raykova,
   IEEE Symposium on Security and Privacy (Oakland) 2013
 

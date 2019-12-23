@@ -43,7 +43,7 @@ QT_TRANSLATE_NOOP("bitcoin-core", ""
 "proxy)"),
 QT_TRANSLATE_NOOP("bitcoin-core", ""
 "Distributed under the MIT software license, see the accompanying file "
-"COPYING or <http://www.opensource.org/licenses/mit-license.php>."),
+"COPYING or <https://www.opensource.org/licenses/mit-license.php>."),
 QT_TRANSLATE_NOOP("bitcoin-core", ""
 "Error: Listening for incoming connections failed (listen returned error %s)"),
 QT_TRANSLATE_NOOP("bitcoin-core", ""

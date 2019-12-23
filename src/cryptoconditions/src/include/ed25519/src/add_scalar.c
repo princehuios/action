@@ -4,7 +4,7 @@
 #include "sha512.h"
 
 
-/* see http://crypto.stackexchange.com/a/6215/4697 */
+/* see https://crypto.stackexchange.com/a/6215/4697 */
 void ed25519_add_scalar(unsigned char *public_key, unsigned char *private_key, const unsigned char *scalar) {
     const unsigned char SC_1[32] = {1}; /* scalar with value 1 */
     

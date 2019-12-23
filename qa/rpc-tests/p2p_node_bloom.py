@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # Copyright (c) 2018 The Zcash developers
 # Distributed under the MIT software license, see the accompanying
-# file COPYING or http://www.opensource.org/licenses/mit-license.php.
+# file COPYING or https://www.opensource.org/licenses/mit-license.php.
 
 from test_framework.mininode import NodeConn, NodeConnCB, NetworkThread, \
     msg_filteradd, msg_filterclear, mininode_lock, SPROUT_PROTO_VERSION

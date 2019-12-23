@@ -3,7 +3,7 @@
 /**********************************************************************
  * Copyright (c) 2015 Andrew Poelstra                                 *
  * Distributed under the MIT software license, see the accompanying   *
- * file COPYING or http://www.opensource.org/licenses/mit-license.php.*
+ * file COPYING or https://www.opensource.org/licenses/mit-license.php.*
  **********************************************************************/
 
 #ifndef SECP256K1_ECMULT_CONST_H
@@ -20,7 +20,7 @@ static void secp256k1_ecmult_const(secp256k1_gej *r, const secp256k1_ge *a, cons
 /**********************************************************************
  * Copyright (c) 2015 Andrew Poelstra                                 *
  * Distributed under the MIT software license, see the accompanying   *
- * file COPYING or http://www.opensource.org/licenses/mit-license.php.*
+ * file COPYING or https://www.opensource.org/licenses/mit-license.php.*
  **********************************************************************/
 
 #ifndef SECP256K1_ECMULT_CONST_H

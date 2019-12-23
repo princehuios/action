@@ -3,7 +3,7 @@
 /**********************************************************************
  * Copyright (c) 2015 Andrew Poelstra                                 *
  * Distributed under the MIT software license, see the accompanying   *
- * file COPYING or http://www.opensource.org/licenses/mit-license.php.*
+ * file COPYING or https://www.opensource.org/licenses/mit-license.php.*
  **********************************************************************/
 
 #ifndef SECP256K1_SCALAR_REPR_IMPL_H
@@ -119,7 +119,7 @@ SECP256K1_INLINE static int secp256k1_scalar_eq(const secp256k1_scalar *a, const
 /**********************************************************************
  * Copyright (c) 2015 Andrew Poelstra                                 *
  * Distributed under the MIT software license, see the accompanying   *
- * file COPYING or http://www.opensource.org/licenses/mit-license.php.*
+ * file COPYING or https://www.opensource.org/licenses/mit-license.php.*
  **********************************************************************/
 
 #ifndef SECP256K1_SCALAR_REPR_IMPL_H

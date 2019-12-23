@@ -10,7 +10,7 @@
 #
 #   This macro tries to find out how to compile programs that use OpenMP a
 #   standard API and set of compiler directives for parallel programming
-#   (see http://www-unix.mcs/)
+#   (see https://www-unix.mcs/)
 #
 #   On success, it sets the OPENMP_CFLAGS/OPENMP_CXXFLAGS/OPENMP_F77FLAGS
 #   output variable to the flag (e.g. -omp) used both to compile *and* link

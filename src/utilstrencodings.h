@@ -1,7 +1,7 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2014 The Bitcoin Core developers
 // Distributed under the MIT software license, see the accompanying
-// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+// file COPYING or https://www.opensource.org/licenses/mit-license.php.
 
 /**
  * Utilities for converting data from/to strings.
@@ -127,7 +127,7 @@ bool TimingResistantEqual(const T& a, const T& b)
 }
 
 /** Parse number as fixed point according to JSON number syntax.
- * See http://json.org/number.gif
+ * See https://json.org/number.gif
  * @returns true on success, false on error.
  * @note The result must be in the range (-10^18,10^18), otherwise an overflow error will trigger.
  */

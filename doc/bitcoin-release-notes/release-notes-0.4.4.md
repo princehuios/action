@@ -1,5 +1,5 @@
 Bitcoin version 0.4.4 is now available for download at:
-http://luke.dashjr.org/programs/bitcoin/files/bitcoind-0.4.4/
+https://luke.dashjr.org/programs/bitcoin/files/bitcoind-0.4.4/
 
 This is a bugfix-only release based on 0.4.0.
 
@@ -9,7 +9,7 @@ Please report bugs for the daemon only using the issue tracker at github:
 https://github.com/bitcoin/bitcoin/issues
 
 Stable source code is hosted at Gitorious:
-http://gitorious.org/bitcoin/bitcoind-stable/archive-tarball/v0.4.4#.tar.gz
+https://gitorious.org/bitcoin/bitcoind-stable/archive-tarball/v0.4.4#.tar.gz
 
 BUG FIXES
 

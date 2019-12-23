@@ -165,7 +165,7 @@ void Fp_model<n,modulus>::mul_reduce(const bigint<n> &other)
         /*
           The Montgomery reduction here is based on Algorithm 14.32 in
           Handbook of Applied Cryptography
-          <http://cacr.uwaterloo.ca/hac/about/chap14.pdf>.
+          <https://cacr.uwaterloo.ca/hac/about/chap14.pdf>.
          */
         for (size_t i = 0; i < n; ++i)
         {

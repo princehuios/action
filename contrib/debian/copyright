@@ -104,7 +104,7 @@ License: BDB
  *                  GNU AFFERO GENERAL PUBLIC LICENSE
  *                     Version 3, 19 November 2007
  *
- * Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+ * Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  * Everyone is permitted to copy and distribute verbatim copies
  * of this license document, but changing it is not allowed.
  *
@@ -746,7 +746,7 @@ License: BDB
  *     GNU Affero General Public License for more details.
  *
  *     You should have received a copy of the GNU Affero General Public License
- *     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  * Also add information on how to contact you by electronic and paper mail.
  *
@@ -761,7 +761,7 @@ License: BDB
  *   You should also get your employer (if you work as a programmer) or school,
  * if any, to sign a "copyright disclaimer" for the program, if necessary.
  * For more information on this, and how to apply and follow the GNU AGPL, see
- * <http://www.gnu.org/licenses/>.
+ * <https://www.gnu.org/licenses/>.
  */
  .
  ADDITIONAL THIRD PARTY NOTICES:
@@ -880,7 +880,7 @@ License: OpenSSL+SSLeay
  * 3. All advertising materials mentioning features or use of this
  *    software must display the following acknowledgment:
  *    "This product includes software developed by the OpenSSL Project
- *    for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+ *    for use in the OpenSSL Toolkit. (https://www.openssl.org/)"
  *
  * 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
  *    endorse or promote products derived from this software without
@@ -894,7 +894,7 @@ License: OpenSSL+SSLeay
  * 6. Redistributions of any form whatsoever must retain the following
  *    acknowledgment:
  *    "This product includes software developed by the OpenSSL Project
- *    for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+ *    for use in the OpenSSL Toolkit (https://www.openssl.org/)"
  *
  * THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
  * EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
@@ -1074,7 +1074,7 @@ License: LGPL
  GNU General Public License for more details.
 Comment:
  You should have received a copy of the GNU General Public License
- along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 License: LGPL-with-ZeroMQ-exception
  GNU LESSER GENERAL PUBLIC LICENSE
@@ -1103,7 +1103,7 @@ License: LGPL-with-ZeroMQ-exception
  of this license, and section 6 of the GNU General Public License.
 Comment:
  You should have received a copy of the GNU General Public License
- along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 License: Apache-Qpid-Proton-with-BSD-Subcomponents
                                  Apache License

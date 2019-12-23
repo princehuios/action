@@ -42,7 +42,7 @@ If you don't see your idea listed, and you think it can contribute to Komodo, do
 * **If your contribution is major,** such as a new feature or bugfix, start by opening an issue first. That way, other contributors can weigh in on the discussion before you do any work.
 
 ## Style guide
-Write clear, clean and consistent code. Follow well-known and established style guidelines like [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html) or [Bjarne Stroustrup's C++ Style FAQ](http://www.stroustrup.com/bs_faq2.html).
+Write clear, clean and consistent code. Follow well-known and established style guidelines like [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html) or [Bjarne Stroustrup's C++ Style FAQ](https://www.stroustrup.com/bs_faq2.html).
 
 ## Setting up your environment
 
@@ -54,7 +54,7 @@ Our team and community will review your contribution and start a transparent tes
 
 ## Community
 
-Discussions about Komodo's development take place on our [discord server](https://discord.gg/yhfzqsg). Anybody is welcome to join these conversations. There is also a [newsletter](http://komodoplatform.com) with regular updates.
+Discussions about Komodo's development take place on our [discord server](https://discord.gg/yhfzqsg). Anybody is welcome to join these conversations. There is also a [newsletter](https://komodoplatform.com) with regular updates.
 
 Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.
 

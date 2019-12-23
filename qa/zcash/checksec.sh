@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# The BSD License (http://www.opensource.org/licenses/bsd-license.php) 
+# The BSD License (https://www.opensource.org/licenses/bsd-license.php) 
 # specifies the terms and conditions of use for checksec.sh:
 #
 # Copyright (c) 2009-2011, Tobias Klein.
@@ -48,7 +48,7 @@
 # Randomization (ASLR) and Position Independent Executables (PIE) have 
 # made reliably exploiting any vulnerabilities that do exist far more 
 # challenging. The checksec.sh script is designed to test what *standard* 
-# Linux OS and PaX (http://pax.grsecurity.net/) security features are being 
+# Linux OS and PaX (https://pax.grsecurity.net/) security features are being 
 # used.
 #
 # As of version 1.3 the script also lists the status of various Linux kernel 

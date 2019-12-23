@@ -3,7 +3,7 @@
 /**********************************************************************
  * Copyright (c) 2014 Pieter Wuille                                   *
  * Distributed under the MIT software license, see the accompanying   *
- * file COPYING or http://www.opensource.org/licenses/mit-license.php.*
+ * file COPYING or https://www.opensource.org/licenses/mit-license.php.*
  **********************************************************************/
 
 #ifndef SECP256K1_SCALAR_H
@@ -112,7 +112,7 @@ static void secp256k1_scalar_mul_shift_var(secp256k1_scalar *r, const secp256k1_
 /**********************************************************************
  * Copyright (c) 2014 Pieter Wuille                                   *
  * Distributed under the MIT software license, see the accompanying   *
- * file COPYING or http://www.opensource.org/licenses/mit-license.php.*
+ * file COPYING or https://www.opensource.org/licenses/mit-license.php.*
  **********************************************************************/
 
 #ifndef SECP256K1_SCALAR_H

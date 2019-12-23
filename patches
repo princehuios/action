@@ -27,7 +27,7 @@ diff -crB ./contrib/bitcoind.bash-completion ../../komodo-jl777/contrib/bitcoind
 ! # bash programmable completion for bitcoind(1) and bitcoin-cli(1)
 ! # Copyright (c) 2012,2014 Christian von Roques <roques@mti.ag>
   # Distributed under the MIT software license, see the accompanying
-  # file COPYING or http://www.opensource.org/licenses/mit-license.php.
+  # file COPYING or https://www.opensource.org/licenses/mit-license.php.
   
 ! have bitcoind && {
 ! 
@@ -130,7 +130,7 @@ diff -crB ./contrib/bitcoind.bash-completion ../../komodo-jl777/contrib/bitcoind
 ! # bash programmable completion for bitcoind(1) and bitcoin-qt(1)
 ! # Copyright (c) 2012-2016 The Bitcoin Core developers
   # Distributed under the MIT software license, see the accompanying
-  # file COPYING or http://www.opensource.org/licenses/mit-license.php.
+  # file COPYING or https://www.opensource.org/licenses/mit-license.php.
   
 ! _zcashd() {
       local cur prev words=() cword
@@ -4672,7 +4672,7 @@ diff -crB ./src/metrics.h ../../komodo-jl777/src/metrics.h
 ***************
 *** 2,12 ****
   // Distributed under the MIT software license, see the accompanying
-  // file COPYING or http://www.opensource.org/licenses/mit-license.php.
+  // file COPYING or https://www.opensource.org/licenses/mit-license.php.
   
   #include <atomic>
   #include <string>
@@ -4684,7 +4684,7 @@ diff -crB ./src/metrics.h ../../komodo-jl777/src/metrics.h
   
 --- 2,14 ----
   // Distributed under the MIT software license, see the accompanying
-  // file COPYING or http://www.opensource.org/licenses/mit-license.php.
+  // file COPYING or https://www.opensource.org/licenses/mit-license.php.
   
 + #include "uint256.h"
 + 
