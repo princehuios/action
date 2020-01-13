@@ -77,7 +77,7 @@ found at the URLs below:
   consensus enforcement: <https://bitcoin.sipa.be/ver-50k.png>
 
 - Block versions over the last 2,000 blocks showing the days to the
-  earliest possible BIP65 consensus-enforced block: <https://bitcoin.sipa.be/ver-2k.png>
+  earliest possible BIP65 consensus-enforced block: <http://bitcoin.sipa.be/ver-2k.png>
 
 **Notice to miners:** Bitcoin Core’s block templates are now for
 version 4 blocks only, and any mining software relying on its

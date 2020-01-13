@@ -44,7 +44,7 @@
 #
 #   Please let the authors know if this macro fails on any platform, or if
 #   you have any other suggestions or comments. This macro was based on work
-#   by SGJ on autoconf scripts for FFTW (https://www.fftw.org/) (with help
+#   by SGJ on autoconf scripts for FFTW (http://www.fftw.org/) (with help
 #   from M. Frigo), as well as ac_pthread and hb_pthread macros posted by
 #   Alejandro Forero Cuervo to the autoconf macro repository. We are also
 #   grateful for the helpful feedback of numerous users.
