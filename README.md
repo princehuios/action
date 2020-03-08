@@ -62,7 +62,7 @@ This software builds for all operating systems out of the same codebase. Follow 
 
 ```shell
 git clone https://github.com/actioncoininc/action --branch dev --single-branch
-cd komodo
+cd action
 ./zcutil/fetch-params.sh
 ./zcutil/build.sh -j$(expr $(nproc) - 1)
 #This can take some time.
@@ -89,7 +89,7 @@ brew install wget
 # Clone the Action Coin repo
 git clone https://github.com/actioncoin/action --branch dev --single-branch
 # Change master branch to other branch you wish to compile
-cd komodo
+cd action
 ./zcutil/fetch-params.sh
 ./zcutil/build-mac.sh -j$(expr $(sysctl -n hw.ncpu) - 1)
 # This can take some time.
@@ -104,7 +104,7 @@ curl https://sh.rustup.rs -sSf | sh
 source $HOME/.cargo/env
 rustup target add x86_64-pc-windows-gnu
 git clone https://github.com/actioncoininc/action --branch dev --single-branch
-cd komodo
+cd action
 ./zcutil/fetch-params.sh
 ./zcutil/build-win.sh -j$(expr $(nproc) - 1)
 #This can take some time.
