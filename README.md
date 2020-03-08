@@ -109,7 +109,7 @@ cd action
 ./zcutil/build-win.sh -j$(expr $(nproc) - 1)
 #This can take some time.
 ```
-**action-komodo is experimental and a work-in-progress.** Use at your own risk.
+**action is experimental and a work-in-progress.** Use at your own risk.
 
 To reset the Action blockchain change into the *~/.komodo/ACTN/* data directory and delete the corresponding files by running `rm -rf blocks chainstate debug.log komodostate db.log`
 
