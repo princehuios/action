@@ -1,6 +1,6 @@
 ## Action Coin
 
-This is the official Action Coin repository.  This software is based on [Komodo Platform Technology.](https://komodoplatform.com/) 
+This is the official Action Coin repository.  This software is based on [Komodo Platform Technology.](https://komodoplatform.com/).
 
 ## Resources
 
@@ -10,9 +10,9 @@ This is the official Action Coin repository.  This software is based on [Komodo 
 
 ## List of Platform Technologies
 
-- Delayed Proof of Work (dPoW) - Additional security layer and Komodos own consensus algorithm  
-- zk-SNARKs - Komodo Platform's privacy technology for shielded transactions  
-- Tokens/Assets Technology - create "colored coins" on the Action Coin Platform and use them as a layer for rewards.
+- Delayed Proof of Work (dPoW) - Additional security layer and Komodos own consensus algorithm. 
+- zk-SNARKs - Komodo Platform's privacy technology for shielded transactions.  
+- Tokens/Assets Technology - create "colored coins" on the Action Coin Blockchain and use them as a layer for rewards.
 
 ## Technical Specification
 
@@ -61,7 +61,7 @@ This software builds for all operating systems out of the same codebase. Follow 
 #### Linux
 
 ```shell
-git clone https://github.com/actioncoininc/action-komodo --branch master --single-branch
+git clone https://github.com/actioncoininc/action-komodo --branch dev --single-branch
 cd komodo
 ./zcutil/fetch-params.sh
 ./zcutil/build.sh -j$(expr $(nproc) - 1)
@@ -87,7 +87,7 @@ brew install protobuf
 brew install coreutils
 brew install wget
 # Clone the Action Coin repo
-git clone https://github.com/actioncoin/action-komodo --branch master --single-branch
+git clone https://github.com/actioncoin/action-komodo --branch dev --single-branch
 # Change master branch to other branch you wish to compile
 cd komodo
 ./zcutil/fetch-params.sh
@@ -103,7 +103,7 @@ sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoco
 curl https://sh.rustup.rs -sSf | sh
 source $HOME/.cargo/env
 rustup target add x86_64-pc-windows-gnu
-git clone https://github.com/actioncoininc/action-komodo --branch master --single-branch
+git clone https://github.com/actioncoininc/action-komodo --branch dev --single-branch
 cd komodo
 ./zcutil/fetch-params.sh
 ./zcutil/build-win.sh -j$(expr $(nproc) - 1)
