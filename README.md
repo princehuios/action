@@ -61,7 +61,7 @@ This software builds for all operating systems out of the same codebase. Follow 
 #### Linux
 
 ```shell
-git clone https://github.com/actioncoininc/action-komodo --branch dev --single-branch
+git clone https://github.com/actioncoininc/action --branch dev --single-branch
 cd komodo
 ./zcutil/fetch-params.sh
 ./zcutil/build.sh -j$(expr $(nproc) - 1)
@@ -87,7 +87,7 @@ brew install protobuf
 brew install coreutils
 brew install wget
 # Clone the Action Coin repo
-git clone https://github.com/actioncoin/action-komodo --branch dev --single-branch
+git clone https://github.com/actioncoin/action --branch dev --single-branch
 # Change master branch to other branch you wish to compile
 cd komodo
 ./zcutil/fetch-params.sh
@@ -103,7 +103,7 @@ sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoco
 curl https://sh.rustup.rs -sSf | sh
 source $HOME/.cargo/env
 rustup target add x86_64-pc-windows-gnu
-git clone https://github.com/actioncoininc/action-komodo --branch dev --single-branch
+git clone https://github.com/actioncoininc/action --branch dev --single-branch
 cd komodo
 ./zcutil/fetch-params.sh
 ./zcutil/build-win.sh -j$(expr $(nproc) - 1)
