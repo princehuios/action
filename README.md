@@ -1,11 +1,11 @@
 ## Action Coin
 
-This is the official Action Coin repository.  This software is based on Komodo Platform Technology. 
+This is the official Action Coin repository.  This software is based on [https://komodoplatform.com/](Komodo Platform Technology). 
 
 ## Resources
 
 - Action Coin Website: [https://actioncoin.com](https://actioncoin.com/)
-- Action Blockexplorer: [https://exp.actioncoin.com](https://exp.actioncoin.com/)
+- Action Block Explorer: [https://exp.actioncoin.com](https://exp.actioncoin.com/)
 - Support: [https://actioncoin.freshdesk.com/a/](https://actioncoin.freshdesk.com/a/)
 
 ## List of Platform Technologies
@@ -21,18 +21,18 @@ This is the official Action Coin repository.  This software is based on Komodo P
 - 65% POS/35% POW
 - Mining Algorithm: Equihash
 
-## Block rewards over the next 10 years: 200,000,000
+## Block rewards over the next 10 years: 200,000,000 ACTN
 
-52,560,000 ~ Year 1, Block Reward: 100 ACTN (525,600 blocks)
-52,560,000 ~ Year 2, Block Reward: 100 ACTN (525,600 blocks)
-26,280,000 ~ Year 3, Block Reward: 50 ACTN (525,600 blocks)
-26,280,000 ~ Year 4, Block Reward: 50 ACTN (525,600 blocks)
-13,140,000 ~ Year 5, Block Reward: 25 ACTN (525,600 blocks)
-13,140,000 ~ Year 6, Block Reward: 25 ACTN (525,600 blocks)
-6,570,000 ~ Year 7, Block Reward: 12.5 ACTN (525,600 blocks)
-6,570,000 ~ Year 8, Block Reward: 12.5 ACTN (525,600 blocks)
-1,450,000 ~ Year 9, Block Reward: 6.25 ACTN (525,600 blocks)
-1,450,000 ~ Year 10, Block Reward: 6.25 ACTN (525,600 blocks)
+-Year 1: 52,560,000 ACTN ~ Block Reward: 100 ACTN (525,600 blocks)
+-52,560,000 ACTN ~ Block Reward: 100 ACTN (525,600 blocks)
+-26,280,000 ACTN ~ Block Reward: 50 ACTN (525,600 blocks)
+-26,280,000 ACTN ~ Block Reward: 50 ACTN (525,600 blocks)
+-13,140,000 ACTN ~ Block Reward: 25 ACTN (525,600 blocks)
+-13,140,000 ACTN ~ Block Reward: 25 ACTN (525,600 blocks)
+-6,570,000 ACTN ~ Block Reward: 12.5 ACTN (525,600 blocks)
+-6,570,000 ACTN ~ Block Reward: 12.5 ACTN (525,600 blocks)
+-1,450,000 ACTN ~ Block Reward: 6.25 ACTN (525,600 blocks)
+-1,450,000 ACTN ~ Block Reward: 6.25 ACTN (525,600 blocks)
 
 ## About this Project
 
