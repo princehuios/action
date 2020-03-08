@@ -1,6 +1,6 @@
 ## Action Coin
 
-This is the official Action Coin repository.  This software is based on [Komodo Platform Technology.](https://komodoplatform.com/).
+This is the official Action Coin repository.  This software is based on [Komodo Platform Technology](https://komodoplatform.com/).
 
 ## Resources
 
