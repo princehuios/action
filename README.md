@@ -1,56 +1,27 @@
-[![Build Status](https://travis-ci.org/KomodoPlatform/komodo.svg?branch=master)](https://travis-ci.org/KomodoPlatform/komodo)
-[![Version](https://img.shields.io/github/v/release/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/releases)
-[![Issues](https://img.shields.io/github/issues-raw/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/issues)
-[![PRs](https://img.shields.io/github/issues-pr-closed/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/pulls)
-[![Commits](https://img.shields.io/github/commit-activity/y/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/commits/dev)
-[![Contributors](https://img.shields.io/github/contributors/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/graphs/commit-activity)
-
-[![gitstars](https://img.shields.io/github/stars/komodoplatform/komodo?style=social)](https://github.com/KomodoPlatform/komodo/stargazers)
-[![twitter](https://img.shields.io/twitter/follow/komodoplatform?style=social)](https://twitter.com/komodoplatform)
-[![discord](https://img.shields.io/discord/412898016371015680)](https://discord.gg/tvp96Gf)
-
 ---
 ![Komodo Logo](https://i.imgur.com/E8LtkAa.png "Komodo Logo")
 
 
-## Komodo
+## Action
 
-This is the official Komodo sourcecode repository based on https://github.com/jl777/komodo. 
+This is the official Action Coin repository, based on Komodo Platform Technology. 
 
 ## Development Resources
 
-- Komodo Website: [https://komodoplatform.com](https://komodoplatform.com/)
-- Komodo Blockexplorer: [https://kmdexplorer.io](https://kmdexplorer.io/)
-- Komodo Discord: [https://komodoplatform.com/discord](https://komodoplatform.com/discord)
-- Forum: [https://forum.komodoplatform.com](https://forum.komodoplatform.com/)
-- Mail: [info@komodoplatform.com](mailto:info@komodoplatform.com)
-- Support: [https://support.komodoplatform.com/support/home](https://support.komodoplatform.com/support/home)
-- Knowledgebase & How-to: [https://support.komodoplatform.com/en/support/solutions](https://support.komodoplatform.com/en/support/solutions)
-- API references & Dev Documentation: [https://developers.komodoplatform.com](https://developers.komodoplatform.com/)
-- Blog: [https://blog.komodoplatform.com](https://blog.komodoplatform.com/)
-- Whitepaper: [Komodo Whitepaper](https://komodoplatform.com/whitepaper)
-- Komodo Platform public material: [Komodo Platform public material](https://docs.google.com/document/d/1AbhWrtagu4vYdkl-vsWz-HSNyNvK-W-ZasHCqe7CZy0)
+- Action Coin Website: [https://actioncoin.com](https://actioncoin.com/)
+- Action Blockexplorer: [https://exp.actioncoin.com](https://exp.actioncoin.com/)
+- Support: [https://actioncoin.freshdesk.com/a/](https://actioncoin.freshdesk.com/a/)
 
-## List of Komodo Platform Technologies
+## List of Platform Technologies
 
 - Delayed Proof of Work (dPoW) - Additional security layer and Komodos own consensus algorithm  
 - zk-SNARKs - Komodo Platform's privacy technology for shielded transactions  
-- Tokens/Assets Technology - create "colored coins" on the Komodo Platform and use them as a layer for securites  
-- Reward API - Komodo CC technology for securities  
-- CC - Crypto Conditions to realize "smart contract" logic on top of the Komodo Platform  
-- Jumblr - Decentralized tumbler for KMD and other cryptocurrencies  
-- Assetchains - Create your own Blockchain that inherits all Komodo Platform functionalities and blockchain interoperability  
-- Pegged Assets - Chains that maintain a peg to fiat currencies  
-- Peerchains - Scalability solution where sibling chains form a network of blockchains  
-- More in depth covered [here](https://docs.google.com/document/d/1AbhWrtagu4vYdkl-vsWz-HSNyNvK-W-ZasHCqe7CZy0)  
-- Also note you receive 5% Active User Reward on your balance.  
-[See this article for more details](https://support.komodoplatform.com/en/support/solutions/articles/29000024515-how-to-claim-the-kmd-active-user-reward-in-agama)
+- Tokens/Assets Technology - create "colored coins" on the Action Coin Platform and use them as a layer for rewards
 
 ## Tech Specification
-- Max Supply: 200 million KMD
+- Max Supply: 2 billion ACTN
 - Block Time: 60 seconds
-- Block Reward: 3 KMD
+- Block Reward: 100 ACTN
 - Mining Algorithm: Equihash
 
 ## About this Project
@@ -65,22 +36,21 @@ Komodo is based on Zcash and has been extended by our innovative consensus algor
 sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoconf libtool ncurses-dev unzip git python python-zmq zlib1g-dev wget libcurl4-gnutls-dev bsdmainutils automake curl libsodium-dev
 ```
 
-### Build Komodo
+### Build
 
 This software is based on zcash and considered experimental and is continously undergoing heavy development.
 
-The dev branch is considered the bleeding edge codebase while the master-branch is considered tested (unit tests, runtime tests, functionality). At no point of time do the Komodo Platform developers take any responsbility for any damage out of the usage of this software. 
-Komodo builds for all operating systems out of the same codebase. Follow the OS specific instructions from below.
+The dev branch is considered the bleeding edge codebase while the master-branch is considered tested (unit tests, runtime tests, functionality). At no point of time does Action Coin Inc., or the Komodo Platform developers take any responsbility for any damage out of the usage of this software. 
+This software builds for all operating systems out of the same codebase. Follow the OS specific instructions from below.
 
 #### Linux
 ```shell
-git clone https://github.com/komodoplatform/komodo --branch master --single-branch
+git clone https://github.com/actioncoininc/action-komodo --branch master --single-branch
 cd komodo
 ./zcutil/fetch-params.sh
 ./zcutil/build.sh -j$(expr $(nproc) - 1)
 #This can take some time.
 ```
-
 
 #### OSX
 Ensure you have [brew](https://brew.sh) and Command Line Tools installed.
@@ -99,8 +69,8 @@ brew install binutils
 brew install protobuf
 brew install coreutils
 brew install wget
-# Clone the Komodo repo
-git clone https://github.com/komodoplatform/komodo --branch master --single-branch
+# Clone the Action Coin repo
+git clone https://github.com/actioncoin/action-komodo --branch master --single-branch
 # Change master branch to other branch you wish to compile
 cd komodo
 ./zcutil/fetch-params.sh
@@ -125,47 +95,8 @@ cd komodo
 
 To reset the Komodo blockchain change into the *~/.komodo* data directory and delete the corresponding files by running `rm -rf blocks chainstate debug.log komodostate db.log`
 
-#### Create komodo.conf
 
-Create a komodo.conf file:
-
-```
-mkdir ~/.komodo
-cd ~/.komodo
-touch komodo.conf
-
-#Add the following lines to the komodo.conf file:
-rpcuser=yourrpcusername
-rpcpassword=yoursecurerpcpassword
-rpcbind=127.0.0.1
-txindex=1
-addnode=77.75.121.138
-addnode=95.213.238.100
-addnode=94.130.148.142
-addnode=103.6.12.105
-addnode=139.99.209.214
-addnode=185.130.212.13
-addnode=5.9.142.219
-addnode=200.25.4.38
-addnode=139.99.136.148
-
-```
-### Create your own Blockchain based on Komodo
-
-Komodo allows anyone to create a runtime fork which represents an independent Blockchain. Below are the detailed instructions:
-Setup two independent servers with at least 1 server having a static IP and build komodod on those servers.  
-
-#### On server 1 (with static IP) run:
-```shell
-./komodod -ac_name=name_of_your_chain -ac_supply=100000 -bind=ip_of_server_1 &
-```
-
-#### On server 2 run:
-```shell
-./komodod -ac_name=name_of_your_chain -ac_supply=100000 -addnode=ip_of_server_1 -gen &
-```
-
-**Komodo is based on Zcash which is unfinished and highly experimental.** Use at your own risk.
+**This software is based on Zcash which is unfinished and highly experimental.** Use at your own risk.
 
 License
 -------
