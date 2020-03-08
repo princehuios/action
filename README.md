@@ -1,6 +1,6 @@
 ## Action Coin
 
-This is the official Action Coin repository.  This software is based on [https://komodoplatform.com/](Komodo Platform Technology). 
+This is the official Action Coin repository.  This software is based on [Komodo Platform Technology.](https://komodoplatform.com/) 
 
 ## Resources
 
@@ -24,15 +24,15 @@ This is the official Action Coin repository.  This software is based on [https:/
 ## Block rewards over the next 10 years: 200,000,000 ACTN
 
 -Year 1: 52,560,000 ACTN ~ Block Reward: 100 ACTN (525,600 blocks)
--52,560,000 ACTN ~ Block Reward: 100 ACTN (525,600 blocks)
--26,280,000 ACTN ~ Block Reward: 50 ACTN (525,600 blocks)
--26,280,000 ACTN ~ Block Reward: 50 ACTN (525,600 blocks)
--13,140,000 ACTN ~ Block Reward: 25 ACTN (525,600 blocks)
--13,140,000 ACTN ~ Block Reward: 25 ACTN (525,600 blocks)
--6,570,000 ACTN ~ Block Reward: 12.5 ACTN (525,600 blocks)
--6,570,000 ACTN ~ Block Reward: 12.5 ACTN (525,600 blocks)
--1,450,000 ACTN ~ Block Reward: 6.25 ACTN (525,600 blocks)
--1,450,000 ACTN ~ Block Reward: 6.25 ACTN (525,600 blocks)
+-Year 2: 52,560,000 ACTN ~ Block Reward: 100 ACTN (525,600 blocks)
+-Year 3: 26,280,000 ACTN ~ Block Reward: 50 ACTN (525,600 blocks)
+-Year 4: 26,280,000 ACTN ~ Block Reward: 50 ACTN (525,600 blocks)
+-Year 5: 13,140,000 ACTN ~ Block Reward: 25 ACTN (525,600 blocks)
+-Year 6: 13,140,000 ACTN ~ Block Reward: 25 ACTN (525,600 blocks)
+-Year 7: 6,570,000 ACTN ~ Block Reward: 12.5 ACTN (525,600 blocks)
+-Year 8: 6,570,000 ACTN ~ Block Reward: 12.5 ACTN (525,600 blocks)
+-Year 9: 1,450,000 ACTN ~ Block Reward: 6.25 ACTN (525,600 blocks)
+-Year 10: 1,450,000 ACTN ~ Block Reward: 6.25 ACTN (525,600 blocks)
 
 ## About this Project
 
@@ -40,7 +40,7 @@ Action Coin (“Action” or “ACTN”) is earned by joining our website, and p
 
 Collectors may use their Action Coin to obtain deals and discounts (1.00 ACTN = $1.00 USD in SAVINGS) on a growing list of products and services offered by Vendors from more than 30 countries.
 
-Get up to 1,000X more value for your Action Coin [https://actioncoin.com](on our marketplace)!
+Get up to 1,000X more value for your Action Coin [on our marketplace.](https://actioncoin.com/rewards)
 
 ## Getting started
 
