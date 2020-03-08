@@ -1,12 +1,8 @@
----
-![Komodo Logo](https://i.imgur.com/E8LtkAa.png "Komodo Logo")
+## Action Coin
 
+This is the official Action Coin repository.  This software is based on Komodo Platform Technology. 
 
-## Action
-
-This is the official Action Coin repository, based on Komodo Platform Technology. 
-
-## Development Resources
+## Resources
 
 - Action Coin Website: [https://actioncoin.com](https://actioncoin.com/)
 - Action Blockexplorer: [https://exp.actioncoin.com](https://exp.actioncoin.com/)
@@ -16,18 +12,39 @@ This is the official Action Coin repository, based on Komodo Platform Technology
 
 - Delayed Proof of Work (dPoW) - Additional security layer and Komodos own consensus algorithm  
 - zk-SNARKs - Komodo Platform's privacy technology for shielded transactions  
-- Tokens/Assets Technology - create "colored coins" on the Action Coin Platform and use them as a layer for rewards
+- Tokens/Assets Technology - create "colored coins" on the Action Coin Platform and use them as a layer for rewards.
 
-## Tech Specification
+## Technical Specification
+
 - Max Supply: 2 billion ACTN
 - Block Time: 60 seconds
-- Block Reward: 100 ACTN
+- 65% POS/35% POW
 - Mining Algorithm: Equihash
 
+## Block rewards over the next 10 years: 200,000,000
+
+52,560,000 ~ Year 1, Block Reward: 100 ACTN (525,600 blocks)
+52,560,000 ~ Year 2, Block Reward: 100 ACTN (525,600 blocks)
+26,280,000 ~ Year 3, Block Reward: 50 ACTN (525,600 blocks)
+26,280,000 ~ Year 4, Block Reward: 50 ACTN (525,600 blocks)
+13,140,000 ~ Year 5, Block Reward: 25 ACTN (525,600 blocks)
+13,140,000 ~ Year 6, Block Reward: 25 ACTN (525,600 blocks)
+6,570,000 ~ Year 7, Block Reward: 12.5 ACTN (525,600 blocks)
+6,570,000 ~ Year 8, Block Reward: 12.5 ACTN (525,600 blocks)
+1,450,000 ~ Year 9, Block Reward: 6.25 ACTN (525,600 blocks)
+1,450,000 ~ Year 10, Block Reward: 6.25 ACTN (525,600 blocks)
+
 ## About this Project
-Komodo is based on Zcash and has been extended by our innovative consensus algorithm called dPoW which utilizes Bitcoin's hashrate to store Komodo blockchain information into the Bitcoin blockchain. Other new and native Komodo features are the privacy technology called JUMBLR, our assetchain capabilities (one click plug and play blockchain solutions) and a set of financial decentralization and interoperability technologies. More details are available under https://komodoplatform.com/ and https://blog.komodoplatform.com.
+
+Action Coin (“Action” or “ACTN”) is earned by joining our website, and participating in community activities (such as mining and staking).
+
+Collectors may use their Action Coin to obtain deals and discounts (1.00 ACTN = $1.00 USD in SAVINGS) on a growing list of products and services offered by Vendors from more than 30 countries.
+
+Get up to 1,000X more value for your Action Coin [https://actioncoin.com](on our marketplace)!
 
 ## Getting started
+
+Detailed instructions coming soon.
 
 ### Dependencies
 
@@ -44,6 +61,7 @@ The dev branch is considered the bleeding edge codebase while the master-branch 
 This software builds for all operating systems out of the same codebase. Follow the OS specific instructions from below.
 
 #### Linux
+
 ```shell
 git clone https://github.com/actioncoininc/action-komodo --branch master --single-branch
 cd komodo
@@ -53,6 +71,7 @@ cd komodo
 ```
 
 #### OSX
+
 Ensure you have [brew](https://brew.sh) and Command Line Tools installed.
 ```shell
 # Install brew
@@ -79,6 +98,7 @@ cd komodo
 ```
 
 #### Windows
+
 Use a debian cross-compilation setup with mingw for windows and run:
 ```shell
 sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoconf libtool ncurses-dev unzip git python python-zmq zlib1g-dev wget libcurl4-gnutls-dev bsdmainutils automake curl cmake mingw-w64 libsodium-dev libevent-dev
