@@ -103,15 +103,15 @@ sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoco
 curl https://sh.rustup.rs -sSf | sh
 source $HOME/.cargo/env
 rustup target add x86_64-pc-windows-gnu
-git clone https://github.com/jl777/komodo --branch master --single-branch
+git clone https://github.com/actioncoininc/action-komodo --branch master --single-branch
 cd komodo
 ./zcutil/fetch-params.sh
 ./zcutil/build-win.sh -j$(expr $(nproc) - 1)
 #This can take some time.
 ```
-**komodo is experimental and a work-in-progress.** Use at your own risk.
+**action-komodo is experimental and a work-in-progress.** Use at your own risk.
 
-To reset the Komodo blockchain change into the *~/.komodo* data directory and delete the corresponding files by running `rm -rf blocks chainstate debug.log komodostate db.log`
+To reset the Action blockchain change into the *~/.komodo/ACTN/* data directory and delete the corresponding files by running `rm -rf blocks chainstate debug.log komodostate db.log`
 
 
 **This software is based on Zcash which is unfinished and highly experimental.** Use at your own risk.
