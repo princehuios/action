@@ -47,7 +47,7 @@ Detailed instructions coming soon.
 ### Dependencies
 
 ```shell
-#The following packages are needed:
+#Upgrade your system
 sudo apt-get update
 sudo apt-get upgrade -y
 ```
